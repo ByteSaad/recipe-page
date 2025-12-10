@@ -69,8 +69,8 @@ It improves accessibility and communicates that the image belongs to the content
 - **MDN – Semantic HTML**  
   Great reference for choosing correct structural elements.
 
-- **Kevin Powell – Modern CSS Techniques**  
-  Helpful for layout strategies and responsive design.
+- [**Kevin Powell – YouTube Channel**](https://www.youtube.com/@KevinPowell)  
+  Excellent resource for understanding simple UI layouts and modern CSS best practices.
 
 ---
 
