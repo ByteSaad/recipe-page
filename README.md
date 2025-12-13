@@ -31,7 +31,7 @@ Users should be able to:
 
 ## 🔗 Links
 
-- **Live Site URL:** [View Live](https://bytesaad.github.io/recipe-page/) 
+- **Live Site URL:** [View Live](https://recipe-page-fm-nine.vercel.app/) 
 ---
 
 ## 💡 My Process
